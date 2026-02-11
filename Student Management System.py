@@ -7,7 +7,7 @@ try:
     db = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="mihir@1221",
+        password="",
         database="student_db"
     )
 
@@ -135,3 +135,4 @@ finally:
         cursor.close()
         db.close()
         print("Database connection closed")
+
