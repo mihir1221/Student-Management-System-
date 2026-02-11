@@ -4,6 +4,7 @@ A simple terminal-based Student Management System built using Python and MySQL.
 This project helps manage student records like adding, searching, updating, and deleting student details.
 
 Features
+
 ✔ Add Student  
 ✔ View All Students  
 ✔ Search Student by Roll  
