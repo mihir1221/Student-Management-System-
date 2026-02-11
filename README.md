@@ -32,6 +32,7 @@ phone VARCHAR(15)
 
 4. Run program:
 python "Student Management System.py"
+![WhatsApp Image 2026-02-08 at 9 50 09 PM](https://github.com/user-attachments/assets/f3dbb4da-ef57-4f8c-a609-b602dec1e3e8)
 
 
  Future Improvements
