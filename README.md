@@ -30,10 +30,16 @@ course VARCHAR(50),
 phone VARCHAR(15)
 );
 
+
+![WhatsApp Image 2026-02-08 at 9 50 09 PM](https://github.com/user-attachments/assets/5486606a-b5c0-4690-8654-23a3ff901073)
+
+
+
+
 4. Run program:
 python "Student Management System.py"
-![WhatsApp Image 2026-02-08 at 9 50 09 PM](https://github.com/user-attachments/assets/f3dbb4da-ef57-4f8c-a609-b602dec1e3e8)
 
+![WhatsApp Image 2026-02-08 at 9 49 59 PM](https://github.com/user-attachments/assets/7231b703-c5d5-4e07-8bc0-72d6df3a957a)
 
  Future Improvements
 - Login system 🔐  
