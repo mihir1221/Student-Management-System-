@@ -23,8 +23,10 @@ Features:-
 
 1. Install MySQL connector:pip install mysql-connector-python
 2. CREATE DATABASE student_db;
-3.  Create table:
- CREATE TABLE students(
+
+Create table:
+
+CREATE TABLE students(
 
 name VARCHAR(50),
 
