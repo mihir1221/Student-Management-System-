@@ -61,6 +61,16 @@ Admin dashboard
 Data encryption and cybersecurity features
 
 ---
+## 📸 Screenshots
+
+**MySQL Database Setup**  
+MySQL database and student table created successfully.
+
+**Application Running**  
+Student Management System running successfully in terminal.
+
+---
+
  # 👨‍💻 Author
 
 Mihir Chatterjee
