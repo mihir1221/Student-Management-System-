@@ -1,62 +1,72 @@
-Student Management System (Python + MySQL)
+# 🎓 Student Management System (Python + MySQL)
 
-A simple terminal-based Student Management System built using Python and MySQL.  
-This project helps manage student records like adding, searching, updating, and deleting student details.
+A simple **terminal-based Student Management System** built using **Python** and **MySQL**.  
+This project helps manage student records such as adding, searching, updating, and deleting student details using a menu-driven approach.
 
-##Features:-
+---
 
-✔ Add Student  
-✔ View All Students  
-✔ Search Student by Roll  
-✔ Update Course  
-✔ Edit Full Student Details  
-✔ Delete Student  
-✔ Add/Remove Column from Database  
-✔ Menu-driven system  
+## ✨ Features
+✔ Add student  
+✔View all students  
+✔Search student by roll number  
+✔Update student course  
+✔Edit full student details   
+✔Delete student record  
+✔Add or remove columns from database  
+✔ Menu-driven terminal system  
 
- Technologies Used
-- Python
-- MySQL
-- mysql-connector-python
-- VS Code
- 💻 How to Run Project
+---
 
-1. Install MySQL connector:pip install mysql-connector-python
-2. CREATE DATABASE student_db;
+## 🛠 Technologies Used
+- Python  
+- MySQL  
+- mysql-connector-python  
+- VS Code  
 
-Create table:
+---
 
-CREATE TABLE students(
+## 🗂 Database Structure
 
-name VARCHAR(50),
-
-roll VARCHAR(20) PRIMARY KEY,
-
-course VARCHAR(50),
-
-phone VARCHAR(15)
-
+### Create Database
+```sql
+CREATE DATABASE student_db;
+CREATE TABLE students (
+    name VARCHAR(50),
+    roll VARCHAR(20) PRIMARY KEY,
+    course VARCHAR(50),
+    phone VARCHAR(15)
 );
+```
+### ▶️ How to Run the Project
 
+## 1️⃣ Install MySQL Connector
+```install
+pip install mysql-connector-python
+```
+## 2️⃣ Setup Database
+- Open MySQL
+- Create the database and table using the SQL commands above
+## 3️⃣ Run the Program
 
-![WhatsApp Image 2026-02-08 at 9 50 09 PM](https://github.com/user-attachments/assets/5486606a-b5c0-4690-8654-23a3ff901073)
-
-
-
-
-4. Run program:
+```RUN
 python "Student Management System.py"
+```
+# 🚀 Future Improvements
 
-![WhatsApp Image 2026-02-08 at 9 49 59 PM](https://github.com/user-attachments/assets/7231b703-c5d5-4e07-8bc0-72d6df3a957a)
+Login system 🔐
+GUI version using Tkinter
+Admin dashboard
+Data encryption and cybersecurity features
 
- Future Improvements
-- Login system 🔐  
-- GUI version (Tkinter)  
-- Admin dashboard  
-- Cybersecurity encryption  
+---
+ # 👨‍💻 Author
 
-Author
-**Mihir Chatterjee**  
-software engineering Student | Python Developer
+Mihir Chatterjee
+
+Software Engineering Student | Python Developer
+
+---
+
+
 
 
