@@ -55,7 +55,9 @@ python "Student Management System.py"
 
 Login system 🔐
 GUI version using Tkinter
+
 Admin dashboard
+
 Data encryption and cybersecurity features
 
 ---
